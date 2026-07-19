@@ -2,10 +2,12 @@
 
 <img src="https://auber.org/wp-content/uploads/2024/05/UNT-northtexas_cover.jpg"
      alt="University of North Texas Campus"
-     width="800">
+     width="100%">
+
+## Mehebuba Ferdous
 
 **M.S. Student in Economics**  
-University of North Texas
+[University of North Texas](https://www.unt.edu/)
 
 ---
 
@@ -13,7 +15,7 @@ University of North Texas
 
 Welcome to my academic website.
 
-I am an M.S. student in Economics at the University of North Texas with research interests in labor economics, immigration, artificial intelligence, and quantitative social science. My work focuses on understanding how technological change influences labor markets, workforce composition, and socioeconomic outcomes using applied econometric methods and large-scale data.
+I am an M.S. student in Economics at the [University of North Texas](https://www.unt.edu/) with research interests in labor economics, immigration, artificial intelligence, and quantitative social science. My work focuses on understanding how technological change influences labor markets, workforce composition, and socioeconomic outcomes using applied econometric methods and large-scale data.
 
 ---
 
@@ -32,7 +34,8 @@ I am an M.S. student in Economics at the University of North Texas with research
 ## Education
 
 ### University of North Texas
-**Master of Science in Economics**  
+
+**Master of Science in Economics**
 
 ---
 
@@ -64,10 +67,11 @@ My long-term research interests include:
 
 ## CV
 
-My curriculum vitae will be available here soon.
+📄 My curriculum vitae will be available here soon.
 
 ---
 
 ## Contact
 
-[GitHub](https://github.com/Mehebubaferdous)
+- 🌐 **GitHub:** https://github.com/Mehebubaferdous
+- 🎓 **University:** https://www.unt.edu/
