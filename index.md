@@ -66,10 +66,4 @@ My curriculum vitae will be available here soon.
 
 ## Contact
 
-**Email:** 
-
-**GitHub:** https://github.com/Mehebubaferdous
-
-**Google Scholar:** Coming Soon
-
-**LinkedIn:** Coming Soon
+[GitHub](https://github.com/Mehebubaferdous)
