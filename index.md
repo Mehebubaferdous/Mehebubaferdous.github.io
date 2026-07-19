@@ -78,9 +78,6 @@ My long-term research interests include:
 
 ## Current Research Project
 
-### AI Adoption and the Changing Composition of Skilled Foreign Labor Demand
-
-This project investigates how artificial intelligence adoption influences employer demand for highly skilled foreign workers in the United States using H-1B visa data, labor market information, and applied econometric methods.
 
 ---
 
@@ -96,9 +93,6 @@ This project investigates how artificial intelligence adoption influences employ
 
 **GitHub**  
 https://github.com/Mehebubaferdous
-
-**University**  
-https://www.unt.edu/
 
 **Department of Economics**  
 https://economics.unt.edu/
